@@ -1,0 +1,104 @@
+.top-bar{
+	width: 100%;
+	height: 87px;
+	background: #060608;
+	
+}
+
+.top-bar-left{
+	width: 50%;
+	float: left;
+}
+.top-bar-left img{
+	width: 20%;
+	height: 87px;
+
+}
+
+.top-bar-right{
+	width: 100%;
+	float: rigth;
+
+}
+.top-bar-right a{
+	color: white;
+	text-decoration: none;
+	font-size: 29px;
+	padding: 23px;
+	margin-right: -1%;
+	float: left;
+}
+.banner{
+	width: 100%;
+	
+	}
+.banner img{
+	width: 100%;
+	height: 356px;
+}
+.about{
+	width: 100%;
+}
+.about-left img{
+	width: 50%;
+	height: 248px;
+
+}
+
+.about-right {
+	width: 40%;
+	height: 50px;
+	float: right;
+	text-align: center;
+	margin-top: -23%;
+	background-color: pink;
+	color: green;
+
+}
+
+.footer-top{
+	width: 100%;
+}
+
+.footer-top-left {
+	width: 33%;
+	float: left;
+	background-color: #5f505f;
+}
+
+
+.footer-top-middle {
+	width: 34%;
+	float: left;
+	background-color: #5f505f;
+
+	
+
+
+}
+
+.footer-top-right {
+	width: 33%;
+	float: right;
+	background-color: #5f505f;
+	height: 172px;
+
+}
+.footer-top-right img{
+	height: 167px;
+	background-color: #5f505f;
+}
+
+.bootom{
+	width: 100%;
+}
+
+bootom-left {
+ 
+float: left;
+}
+
+bootom-right {
+
+	float: right;
+}
